@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">D1000</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+
+</resources>

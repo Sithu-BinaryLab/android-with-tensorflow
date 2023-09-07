@@ -1,0 +1,1 @@
+This example is a practice project of mine and it is mostly referred by Tensorflow Android Example.
